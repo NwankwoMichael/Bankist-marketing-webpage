@@ -24,6 +24,12 @@ bankist/ │── index.html │── style.css │── script.js │── 
 
 ---
 
+## 🔗 Live Demo
+
+[Try the Task Manager here](https://nwankwomichael.github.io/Bankist-marketing-webpage/)
+
+---
+
 ## 🛠️ Installation & Usage
 
 1. Clone the repository:
