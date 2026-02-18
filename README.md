@@ -26,7 +26,7 @@ bankist/ │── index.html │── style.css │── script.js │── 
 
 ## 🔗 Live Demo
 
-[Try the Task Manager here](https://nwankwomichael.github.io/Bankist-marketing-webpage/)
+[Try Bankist-marketing-webpage here](https://nwankwomichael.github.io/Bankist-marketing-webpage/)
 
 ---
 
